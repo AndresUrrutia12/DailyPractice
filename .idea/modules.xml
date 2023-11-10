@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_bidimensionales/Arrays_bidimensionales.iml" filepath="$PROJECT_DIR$/Arrays_bidimensionales/Arrays_bidimensionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Bucles/Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DailyPractrice.iml" filepath="$PROJECT_DIR$/.idea/DailyPractrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encontrar_vocales/Encontrar_vocales.iml" filepath="$PROJECT_DIR$/Encontrar_vocales/Encontrar_vocales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inicia_con_vocal/Inicia_con_vocal.iml" filepath="$PROJECT_DIR$/Inicia_con_vocal/Inicia_con_vocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumeroCapicua/NumeroCapicua.iml" filepath="$PROJECT_DIR$/NumeroCapicua/NumeroCapicua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenar_numeros/Ordenar_numeros.iml" filepath="$PROJECT_DIR$/Ordenar_numeros/Ordenar_numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palabra_palindroma/Palabra_palindroma.iml" filepath="$PROJECT_DIR$/Palabra_palindroma/Palabra_palindroma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simulador_Dado/Simulador_Dado.iml" filepath="$PROJECT_DIR$/Simulador_Dado/Simulador_Dado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Suma_de_digitos/Suma_de_digitos.iml" filepath="$PROJECT_DIR$/Suma_de_digitos/Suma_de_digitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tamano_de_palabras/Tamano_de_palabras.iml" filepath="$PROJECT_DIR$/Tamano_de_palabras/Tamano_de_palabras.iml" />
+    </modules>
+  </component>
+</project>
